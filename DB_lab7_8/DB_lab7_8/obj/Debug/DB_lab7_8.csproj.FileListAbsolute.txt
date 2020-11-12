@@ -1,0 +1,13 @@
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.Form1.resources
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.Properties.Resources.resources
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\bin\Debug\DB_lab7_8.exe.config
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\bin\Debug\DB_lab7_8.exe
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\bin\Debug\DB_lab7_8.pdb
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.exe
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.pdb
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.Form2.resources
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.Form3.resources
+C:\Users\Pavel\source\repos\DB_lab7_8\DB_lab7_8\obj\Debug\DB_lab7_8.Form4.resources
